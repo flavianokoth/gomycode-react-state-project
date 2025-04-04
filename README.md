@@ -43,7 +43,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/flavianokoth/gomycode-react-state-profile-toggle-project.git
+git clone https://github.com/flavianokoth/gomycode-react-state-project.git
 cd react-profile-toggle
 Install dependencies
 
